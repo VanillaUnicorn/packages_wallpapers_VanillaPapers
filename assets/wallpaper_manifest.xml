@@ -14,6 +14,27 @@
         name="<wallpaper name">
     -->
 
+     <category name="VanillaUnicorn" >
+     
+        <wallpaper
+            author="PartimusPrime"
+            url="http://i.imgur.com/StDakNM.png" />
+            
+       <wallpaper
+            author="PartimusPrime"
+            url="http://i.imgur.com/e0wrB84.jpg" />
+            
+       <wallpaper
+            author="PartimusPrime"
+            url="http://i.imgur.com/uRL2fTI.png" />
+         
+       <wallpaper
+            author="PartimusPrime"
+            url="http://i.imgur.com/7HzttRI.jpg" />
+
+     </category>
+    
+    
     <category name="AOKP" >
 
         <wallpaper
